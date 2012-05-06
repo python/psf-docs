@@ -17,15 +17,10 @@ modifications, or submit a pull request on the `github`_ repository!
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
+   _docs/faq
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
 
 
 .. _Jesse Noller: http://jessenoller.com
