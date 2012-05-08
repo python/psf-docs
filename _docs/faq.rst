@@ -75,7 +75,7 @@ Are all your funds held in US dollars?
 ======================================
 
 Yes. All funds are held and managed in USD - no bitcoins, euros or other
-currencies are help by the PSF, though if issuing international payments, we
+currencies are held by the PSF, though if issuing international payments, we
 will convert the funds into the proper local coin of the realm.
 
 For Australia, we convert it into `drop bears`_.
