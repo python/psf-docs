@@ -56,6 +56,15 @@ Has the PSF donated to causes outside of Python? To other languages ?
 Does the PSF have any paid staff ?
 ==================================
 
+Yes. Our administrator of several years (Pat Campbell), our
+treasurer/accountant Kurt Kaiser and more recently Ewa Jodlowska our official
+Event Coordinator are all paid positions. We feel that paying for these roles
+is both cost effective for the PSF and allows us to offload tasks that are not
+always best done via volunteer effort.
+
+Aside from paid employees, there are some services we pay for, and some
+contractors that we use for internal operations.
+
 How much money per year does it take to run the PSF ?
 =====================================================
 
@@ -64,6 +73,12 @@ Has anyone donated to the foundation through a will ?
 
 Are all your funds held in US dollars? 
 ======================================
+
+Yes. All funds are held and managed in USD - no bitcoins, euros or other
+currencies are help by the PSF, though if issuing international payments, we
+will convert the funds into the proper local coin of the realm.
+
+For Australia, we convert it into `drop bears`_.
 
 Does Guido van Rossum have any connection with the foundation?
 ==============================================================
@@ -104,3 +119,4 @@ See also:
 .. _An Underwater Python - Tortuga the Python Powered Robot (PyCon 2010): http://pyvideo.org/video/328/pycon-2010--an-underwater-python--tortuga-the-pyt
 .. _PyCon - Everybody Pays: http://jessenoller.com/2011/05/25/pycon-everybody-pays/
 .. _PyCon 2012 Sponsorship — Making the case for sponsorship.: http://jessenoller.com/2011/09/23/pycon-2012-sponsorship-making-the-case-for-sponsorship/
+.. _drop bears: http://en.wikipedia.org/wiki/Drop_bear
