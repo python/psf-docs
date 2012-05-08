@@ -41,6 +41,8 @@ budget of and provides oversight of.
 
 See also:
   * `PyCon - Everybody Pays`_
+  * `PyCon 2012 Sponsorship — Making the case for sponsorship.`_
+
 
 Has the PSF donated to causes outside of Python? To other languages ?
 =====================================================================
@@ -95,3 +97,4 @@ See also:
 .. _Greasing the Wheels of Exploration with Python (PyCon 2011): http://pyvideo.org/video/369/pycon-2011--greasing-the-wheels-of-exploration-wi
 .. _An Underwater Python - Tortuga the Python Powered Robot (PyCon 2010): http://pyvideo.org/video/328/pycon-2010--an-underwater-python--tortuga-the-pyt
 .. _PyCon - Everybody Pays: http://jessenoller.com/2011/05/25/pycon-everybody-pays/
+.. _PyCon 2012 Sponsorship — Making the case for sponsorship.: http://jessenoller.com/2011/09/23/pycon-2012-sponsorship-making-the-case-for-sponsorship/
