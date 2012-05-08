@@ -39,6 +39,12 @@ if you will, since it will be in Montreal Canada in 2014/2015). This means that
 it is the one conference the PSF has an officer assigned to, controls the
 budget of and provides oversight of.
 
+This means that the PSF assumes all losses and gains from the conference - it
+can really make or break the PSF as a whole should a bad year occur, or it can
+allow the PSF to greatly increase developer and other grants it issues in a
+good year. In many ways, it is the single biggest fundraiser the PSF has every
+year.
+
 See also:
   * `PyCon - Everybody Pays`_
   * `PyCon 2012 Sponsorship — Making the case for sponsorship.`_
