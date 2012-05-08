@@ -31,6 +31,9 @@ Once again, quoting:
 
     -- See `Mission Statement`_
 
+That's all fine, but what do you do?
+====================================
+
 What is the relationship between PyCon US and the PSF?
 ======================================================
 
@@ -71,8 +74,8 @@ How much money per year does it take to run the PSF ?
 Has anyone donated to the foundation through a will ?
 =====================================================
 
-Are all your funds held in US dollars? 
-======================================
+Are all your funds held in US dollars ? 
+=======================================
 
 Yes. All funds are held and managed in USD - no bitcoins, euros or other
 currencies are held by the PSF, though if issuing international payments, we
@@ -80,14 +83,17 @@ will convert the funds into the proper local coin of the realm.
 
 For Australia, we convert it into `drop bears`_.
 
-Does Guido van Rossum have any connection with the foundation?
-==============================================================
+How does the PSF get funding ?
+==============================
 
-Are there any metrics used to determine the success of the foundation?
-======================================================================
+Does Guido van Rossum have any connection with the foundation ?
+===============================================================
 
-How far out has Python spread in the universe?
-==============================================
+Are there any metrics used to determine the success of the foundation ?
+=======================================================================
+
+How far out has Python spread in the universe ?
+===============================================
 
 **(has NASA or another space agency used python in equipment out beyond Earth?)**
 
@@ -108,6 +114,33 @@ See also:
   * `Keeping the Chandra satellite cool with Python and Xija (PyCon 2012)`_
   * `Greasing the Wheels of Exploration with Python (PyCon 2011)`_
   * `An Underwater Python - Tortuga the Python Powered Robot (PyCon 2010)`_
+
+Is there anything the PSF needs from its own community ?
+========================================================
+
+Does the PSF want more members ?
+================================
+
+Does the PSF ever get involved in books that are published about Python ?
+=========================================================================
+
+How does the PSF determine what projects/grants to approve ?
+============================================================
+
+What is a PSF Member ?
+======================
+
+Can I/should I self-nominate myself to be a PSF member ?
+========================================================
+
+As a PSF member (and board member) are there things that you would otherwise discuss or contribute to but don't due to membership ?
+===================================================================================================================================
+
+Does the PSF make/influences Python-Core/CPython decisions ?
+============================================================
+
+How much influence does the PSF have on projects such as PyPI ?
+===============================================================
 
 
 
