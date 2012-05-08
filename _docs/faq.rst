@@ -31,6 +31,36 @@ Once again, quoting:
 
     -- See `Mission Statement`_
 
+Has the PSF donated to causes outside of Python? To other languages ?
+=====================================================================
+
+Does the PSF have any paid staff ?
+==================================
+
+How much money per year does it take to run the PSF ?
+=====================================================
+
+Has anyone donated to the foundation through a will ?
+=====================================================
+
+Are all your funds held in US dollars? 
+======================================
+
+Does Guido van Rossum have any connection with the foundation?
+==============================================================
+
+Are there any metrics used to determine the success of the foundation?
+======================================================================
+
+How far out has Python spread in the universe?
+==============================================
+
+**(has NASA or another space agency used python in equipment out beyond Earth?)**
+
+What is the relationship between PyCon US and the PSF?
+======================================================
+
+
 
 
 
