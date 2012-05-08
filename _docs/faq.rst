@@ -127,6 +127,9 @@ Does the PSF want more members ?
 Does the PSF ever get involved in books that are published about Python ?
 =========================================================================
 
+What exactly can one apply for a PSF grant? What are some good examples?
+========================================================================
+
 How does the PSF determine what projects/grants to approve ?
 ============================================================
 
