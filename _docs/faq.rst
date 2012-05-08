@@ -29,4 +29,5 @@ Once again, quoting:
 
 
 .. _Python Software Foundation: http://www.python.org/psf/
+.. _Mission Statement: http://www.python.org/psf/mission/
 
