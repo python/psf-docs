@@ -34,6 +34,14 @@ Once again, quoting:
 What is the relationship between PyCon US and the PSF?
 ======================================================
 
+The PSF funds, backs and takes on the risk for PyCon US (or PyCon North America
+if you will, since it will be in Montreal Canada in 2014/2015). This means that
+it is the one conference the PSF has an officer assigned to, controls the
+budget of and provides oversight of.
+
+See also:
+  * `PyCon - Everybody Pays`_
+
 Has the PSF donated to causes outside of Python? To other languages ?
 =====================================================================
 
@@ -86,3 +94,4 @@ See also:
 .. _Keeping the Chandra satellite cool with Python and Xija (PyCon 2012): http://pyvideo.org/video/731/29-keeping-the-chandra-satellite-cool-with-pytho
 .. _Greasing the Wheels of Exploration with Python (PyCon 2011): http://pyvideo.org/video/369/pycon-2011--greasing-the-wheels-of-exploration-wi
 .. _An Underwater Python - Tortuga the Python Powered Robot (PyCon 2010): http://pyvideo.org/video/328/pycon-2010--an-underwater-python--tortuga-the-pyt
+.. _PyCon - Everybody Pays: http://jessenoller.com/2011/05/25/pycon-everybody-pays/
