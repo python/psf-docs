@@ -31,6 +31,9 @@ Once again, quoting:
 
     -- See `Mission Statement`_
 
+What is the relationship between PyCon US and the PSF?
+======================================================
+
 Has the PSF donated to causes outside of Python? To other languages ?
 =====================================================================
 
@@ -57,13 +60,29 @@ How far out has Python spread in the universe?
 
 **(has NASA or another space agency used python in equipment out beyond Earth?)**
 
-What is the relationship between PyCon US and the PSF?
-======================================================
+While we like to think that it's pretty far out that NASA are a big fan of Python, 
+using it at JPL for example to test many aspects of the Mars Space Lab during its 
+design and construction. NASA Goddard are another big user, writing of the Twisted 
+project's logo "we would be proud to display it (as we do the Python and wxPython 
+logos)". 
 
+As far as we know, though, nobody is yet running a Python interpreter outside the 
+Earth's atmosphere. We have a feeling it's only a matter of time.
 
+Given quantum entanglement, though, who knows what's really going on out there?
+
+See also:
+
+  * `Using Python to Create Robotic Simulations for Planetary Exploration (PyCon 2010)`_
+  * `Keeping the Chandra satellite cool with Python and Xija (PyCon 2012)`_
+  * `Greasing the Wheels of Exploration with Python (PyCon 2011)`_
+  * `An Underwater Python - Tortuga the Python Powered Robot (PyCon 2010)`_
 
 
 
 .. _Python Software Foundation: http://www.python.org/psf/
 .. _Mission Statement: http://www.python.org/psf/mission/
-
+.. _Using Python to Create Robotic Simulations for Planetary Exploration (PyCon 2010) : http://pyvideo.org/video/274/pycon-2010--using-python-to-create-robotic-simula
+.. _Keeping the Chandra satellite cool with Python and Xija (PyCon 2012): http://pyvideo.org/video/731/29-keeping-the-chandra-satellite-cool-with-pytho
+.. _Greasing the Wheels of Exploration with Python (PyCon 2011): http://pyvideo.org/video/369/pycon-2011--greasing-the-wheels-of-exploration-wi
+.. _An Underwater Python - Tortuga the Python Powered Robot (PyCon 2010): http://pyvideo.org/video/328/pycon-2010--an-underwater-python--tortuga-the-pyt
