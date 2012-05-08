@@ -4,6 +4,9 @@ Frequently Asked Questions (FAQ)
 This is a non-exhaustive list of frequently (or infrequently) asked questions
 about the `Python Software Foundation`_ that I have been asked. 
 
+.. contents::
+
+
 What is the Python Software Foundation ?
 ========================================
 
