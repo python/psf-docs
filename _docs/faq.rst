@@ -49,11 +49,11 @@ individual conferences, outreach programs or development efforts. The board
 meets once a month to discuss and vote on given resolutions, a list of which
 can be found on the `resolutions`_ page.
 
-Our job is to raise funds, and distribute those funds in a way that best
+Our job is to raise funds and distribute those funds in a way that best
 continues to serve the community and the `Mission Statement`_. We're the
 marketing and legal arm, if you will, of Python-the-Language.
 
-Every so often, we arbitrate or get involved in legal issues involving the
+Every so often we arbitrate or get involved in legal issues involving the
 Python logo or other trademarks. Most trademark actions involved approving
 usage of the logo or other IP.
 
@@ -145,7 +145,7 @@ the Foundation was nothing to do with Python's inventor we have persuaded
 him to (reluctantly) fill the figurehead role as the Foundation's President.
 
 Given how many emails he gets asking for help we think this is remarkably 
-forebearing of him.
+forbearing of him.
 
 Are there any metrics used to determine the success of the foundation ?
 =======================================================================
