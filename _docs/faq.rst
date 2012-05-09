@@ -37,6 +37,26 @@ Once again, quoting:
 That's all fine, but what do you do?
 ====================================
 
+Day to day, the Foundation's activities are pretty "quiet" - the PSF membership
+is amazingly low traffic unless a vote, or hot issue comes up. On the board
+level, we are constantly discussing various initiatives such as marketing,
+grants, outreach, etc. Most of the heavy lifting is left to individual
+committees such as the infrastructure team, trademarks committee, or the PyCon 
+team.
+
+Primarily, our focus is to find things we can **help** with - such as funding
+individual conferences, outreach programs or development efforts. The board
+meets once a month to discuss and vote on given resolutions, a list of which
+can be found on the `resolutions`_ page.
+
+Our job is to raise funds, and distribute those funds in a way that best
+continues to serve the community and the `Mission Statement`_. We're the
+marketing and legal arm, if you will, of Python-the-Language.
+
+Every so often, we arbitrate or get involved in legal issues involving the
+Python logo or other trademarks. Most trademark actions involved approving
+usage of the logo or other IP.
+
 What is the relationship between PyCon US and the PSF?
 ======================================================
 
@@ -168,3 +188,4 @@ How much influence does the PSF have on projects such as PyPI ?
 .. _PyCon - Everybody Pays: http://jessenoller.com/2011/05/25/pycon-everybody-pays/
 .. _PyCon 2012 Sponsorship — Making the case for sponsorship.: http://jessenoller.com/2011/09/23/pycon-2012-sponsorship-making-the-case-for-sponsorship/
 .. _drop bears: http://en.wikipedia.org/wiki/Drop_bear
+.. _resolutions: http://www.python.org/psf/records/board/resolutions/
