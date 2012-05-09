@@ -136,6 +136,10 @@ forebearing of him.
 Are there any metrics used to determine the success of the foundation ?
 =======================================================================
 
+How does the PSF decide on new aims or goals ?
+==============================================
+
+
 How far out has Python spread in the universe ?
 ===============================================
 
