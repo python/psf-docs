@@ -92,6 +92,15 @@ How does the PSF get funding ?
 Does Guido van Rossum have any connection with the foundation ?
 ===============================================================
 
+Guido was the founding chairman of the PSF, but he isn't a big fan of 
+bureaucracy and so ducked out of that role at the first available 
+opportunity. Since we feel it would be unfortunate if it looked like
+the Foundation was nothing to do with Python's inventor we have persuaded 
+him to (reluctantly) fill the figurehead role as the Foundation's President.
+
+Given how many emails he gets asking for help we think this is remarkably 
+forebearing of him.
+
 Are there any metrics used to determine the success of the foundation ?
 =======================================================================
 
