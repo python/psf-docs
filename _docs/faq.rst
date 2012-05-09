@@ -49,11 +49,11 @@ individual conferences, outreach programs or development efforts. The board
 meets once a month to discuss and vote on given resolutions, a list of which
 can be found on the `resolutions`_ page.
 
-Our job is to raise funds, and distribute those funds in a way that best
+Our job is to raise funds and distribute those funds in a way that best
 continues to serve the community and the `Mission Statement`_. We're the
 marketing and legal arm, if you will, of Python-the-Language.
 
-Every so often, we arbitrate or get involved in legal issues involving the
+Every so often we arbitrate or get involved in legal issues involving the
 Python logo or other trademarks. Most trademark actions involved approving
 usage of the logo or other IP.
 
