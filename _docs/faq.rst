@@ -244,3 +244,6 @@ How much influence does the PSF have on projects such as PyPI ?
 .. _Associate Membership Page: http://psfmember.org/
 .. _the Foundation's membership page: http://www.python.org/psf/membership/
 .. _the Foundation's donations page: http://www.python.org/psf/donations/
+.. _Twisted Project: http://twistedmatrix.com
+.. _Steve Waterbury: http://twistedmatrix.com/pipermail/twisted-python/2002-August/001493.html
+
