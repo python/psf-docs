@@ -109,7 +109,7 @@ How far out has Python spread in the universe ?
 
 **(has NASA or another space agency used python in equipment out beyond Earth?)**
 
-While we like to think that it's pretty far out that NASA are a big fan of Python, 
+While we like to think that it's pretty far out that NASA is a big fan of Python, 
 using it at JPL for example to test many aspects of the Mars Space Lab during its 
 design and construction. NASA Goddard are another big user, writing of the Twisted 
 project's logo "we would be proud to display it (as we do the Python and wxPython 
