@@ -121,6 +121,20 @@ For Australia, we convert it into `drop bears`_.
 How does the PSF get funding ?
 ==============================
 
+The Foundation has three primary sources of income:
+
+* The recently-introduced Associate Memberships
+  (see the `Associate Membership Page`_ for more details)
+
+* Donations from individuals and organizations with an interest in the language
+
+* Profits from running the North American PyCon, a volunteer-run conference
+
+We encourage and welcome donations of all kinds at `the Foundation's
+donations page`_ - please feel free to visit right away! We accept both
+PayPal and credit card donations, and will be very grateful for any
+help you can offer.
+
 Does Guido van Rossum have any connection with the foundation ?
 ===============================================================
 
@@ -141,7 +155,7 @@ How far out has Python spread in the universe ?
 
 **(has NASA or another space agency used python in equipment out beyond Earth?)**
 
-While we like to think that it's pretty far out that NASA is a big fan of Python, 
+While we like to think that it's pretty far out that people at NASA are big fans of Python, 
 using it at JPL for example to test many aspects of the Mars Space Lab during its 
 design and construction. NASA Goddard are another big user, writing of the Twisted 
 project's logo "we would be proud to display it (as we do the Python and wxPython 
@@ -164,6 +178,26 @@ Is there anything the PSF needs from its own community ?
 
 Does the PSF want more members ?
 ================================
+
+Yes! There are various grades of membership you can apply for, so we'll start
+with the one that requires no formalities. To support the PSF, head over to
+the `Associate Membership Page`_ and join up there. A one-year associate
+membership currently costs $99, and you can make a donation to the Foundation
+at the same time as you join up.
+
+If you are an individual with an interest in furthering the development of the
+Python language or enarging the internation Python community (the main aspects
+of the PSF's mission) then an existing member will have to nominate you. This
+is not intended make the Foundation an exclusive club (which would not be in
+line with the mission) but to avoid frivolous applcations. If you are at all
+active in the Python world you probably know someone who could propose you.
+
+For companies interested in supporting the PSF's work in a more concrete fashion
+we offer sponsor memberships, with a varying fee scale depending on the size of
+your organiztion.
+
+To find out more about nominated and sponsor membership visit `the Foundation's
+membership page`_
 
 Does the PSF ever get involved in books that are published about Python ?
 =========================================================================
@@ -203,3 +237,6 @@ How much influence does the PSF have on projects such as PyPI ?
 .. _resolutions: http://www.python.org/psf/records/board/resolutions/
 .. _OSUOSL: http://osuosl.org/
 .. _PyCon 2012 had a 5k: https://us.pycon.org/2012/5k/
+.. _Associate Membership Page: http://psfmember.org/
+.. _the Foundation's membership page: http://www.python.org/psf/membership/
+.. _the Foundation's donations page: http://www.python.org/psf/donations/
