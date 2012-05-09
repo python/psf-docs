@@ -131,7 +131,7 @@ the Foundation was nothing to do with Python's inventor we have persuaded
 him to (reluctantly) fill the figurehead role as the Foundation's President.
 
 Given how many emails he gets asking for help we think this is remarkably 
-forebearing of him.
+forbearing of him.
 
 Are there any metrics used to determine the success of the foundation ?
 =======================================================================
