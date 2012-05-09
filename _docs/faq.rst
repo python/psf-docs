@@ -79,6 +79,18 @@ See also:
 Has the PSF donated to causes outside of Python? To other languages ?
 =====================================================================
 
+We have donated to other entities such as `OSUOSL`_ to assist them in their
+mission, and because they generously host and maintain our next generation
+infrastructure. Typically, we constrain grants and PSF funds to those fitting
+within the `Mission Statement`_.
+
+`PyCon 2012 had a 5k`_ "Fun run" - the proceeds of which were matched by PyCon and
+the PSF and distributed to various charities, such as Autism Speaks, the American 
+Cancer Society, and the Epilepsy Foundation.
+
+Normally however, our grants focus on the Python community - whether thats
+funding user groups, conferences, workshops, etc.
+
 Does the PSF have any paid staff ?
 ==================================
 
@@ -189,3 +201,5 @@ How much influence does the PSF have on projects such as PyPI ?
 .. _PyCon 2012 Sponsorship — Making the case for sponsorship.: http://jessenoller.com/2011/09/23/pycon-2012-sponsorship-making-the-case-for-sponsorship/
 .. _drop bears: http://en.wikipedia.org/wiki/Drop_bear
 .. _resolutions: http://www.python.org/psf/records/board/resolutions/
+.. _OSUOSL: http://osuosl.org/
+.. _PyCon 2012 had a 5k: https://us.pycon.org/2012/5k/
