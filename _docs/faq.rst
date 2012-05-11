@@ -60,7 +60,7 @@ usage of the logo or other IP.
 What is the relationship between PyCon US and the PSF?
 ======================================================
 
-The PSF funds, backs and takes on the risk for PyCon US (or PyCon North America
+The PSF funds, backs and takes on the risk for `PyCon US`_ (or PyCon North America
 if you will, since it will be in Montreal Canada in 2014/2015). This means that
 it is the one conference the PSF has an officer assigned to, controls the
 budget of and provides oversight of.
@@ -85,8 +85,8 @@ infrastructure. Typically, we constrain grants and PSF funds to those fitting
 within the `Mission Statement`_.
 
 `PyCon 2012 had a 5k`_ "Fun run" - the proceeds of which were matched by PyCon and
-the PSF and distributed to various charities, such as Autism Speaks, the American 
-Cancer Society, and the Epilepsy Foundation.
+the PSF and distributed to various charities, such as `Autism Speaks`_,
+the `American Cancer Society`_, and the `Epilepsy Foundation`_.
 
 Normally however, our grants focus on the Python community - whether thats
 funding user groups, conferences, workshops, etc.
@@ -232,21 +232,25 @@ How much influence does the PSF have on projects such as PyPI ?
 
 
 
-.. _Python Software Foundation: http://www.python.org/psf/
-.. _Mission Statement: http://www.python.org/psf/mission/
-.. _Using Python to Create Robotic Simulations for Planetary Exploration (PyCon 2010) : http://pyvideo.org/video/274/pycon-2010--using-python-to-create-robotic-simula
-.. _Keeping the Chandra satellite cool with Python and Xija (PyCon 2012): http://pyvideo.org/video/731/29-keeping-the-chandra-satellite-cool-with-pytho
-.. _Greasing the Wheels of Exploration with Python (PyCon 2011): http://pyvideo.org/video/369/pycon-2011--greasing-the-wheels-of-exploration-wi
+.. _American Cancer Society: http://www.cancer.org/
 .. _An Underwater Python - Tortuga the Python Powered Robot (PyCon 2010): http://pyvideo.org/video/328/pycon-2010--an-underwater-python--tortuga-the-pyt
+.. _Associate Membership Page: http://psfmember.org/
+.. _Autism Speaks: http://www.autismspeaks.org/
+.. _Epilepsy Foundation: http://www.epilepsyfoundation.org/
+.. _Greasing the Wheels of Exploration with Python (PyCon 2011): http://pyvideo.org/video/369/pycon-2011--greasing-the-wheels-of-exploration-wi
+.. _Keeping the Chandra satellite cool with Python and Xija (PyCon 2012): http://pyvideo.org/video/731/29-keeping-the-chandra-satellite-cool-with-pytho
+.. _Mission Statement: http://www.python.org/psf/mission/
+.. _OSUOSL: http://osuosl.org/
 .. _PyCon - Everybody Pays: http://jessenoller.com/2011/05/25/pycon-everybody-pays/
 .. _PyCon 2012 Sponsorship — Making the case for sponsorship.: http://jessenoller.com/2011/09/23/pycon-2012-sponsorship-making-the-case-for-sponsorship/
+.. _PyCon 2012 had a 5k: https://us.pycon.org/2012/5k/
+.. _PyCon US: https://us.pycon.org/2012/
+.. _Python Software Foundation: http://www.python.org/psf/
+.. _Steve Waterbury: http://twistedmatrix.com/pipermail/twisted-python/2002-August/001493.html
+.. _Twisted Project: http://twistedmatrix.com
+.. _Using Python to Create Robotic Simulations for Planetary Exploration (PyCon 2010) : http://pyvideo.org/video/274/pycon-2010--using-python-to-create-robotic-simula
 .. _drop bears: http://en.wikipedia.org/wiki/Drop_bear
 .. _resolutions: http://www.python.org/psf/records/board/resolutions/
-.. _OSUOSL: http://osuosl.org/
-.. _PyCon 2012 had a 5k: https://us.pycon.org/2012/5k/
-.. _Associate Membership Page: http://psfmember.org/
 .. _the Foundation's membership page: http://www.python.org/psf/membership/
 .. _the Foundation's donations page: http://www.python.org/psf/donations/
-.. _Twisted Project: http://twistedmatrix.com
-.. _Steve Waterbury: http://twistedmatrix.com/pipermail/twisted-python/2002-August/001493.html
 
