@@ -60,7 +60,7 @@ usage of the logo or other IP.
 What is the relationship between PyCon US and the PSF?
 ======================================================
 
-The PSF funds, backs and takes on the risk for PyCon US (or PyCon North America
+The PSF funds, backs and takes on the risk for `PyCon US`_ (or PyCon North America
 if you will, since it will be in Montreal Canada in 2014/2015). This means that
 it is the one conference the PSF has an officer assigned to, controls the
 budget of and provides oversight of.
@@ -85,8 +85,8 @@ infrastructure. Typically, we constrain grants and PSF funds to those fitting
 within the `Mission Statement`_.
 
 `PyCon 2012 had a 5k`_ "Fun run" - the proceeds of which were matched by PyCon and
-the PSF and distributed to various charities, such as Autism Speaks, the American 
-Cancer Society, and the Epilepsy Foundation.
+the PSF and distributed to various charities, such as `Autism Speaks`_,
+the `American Cancer Society`_, and the `Epilepsy Foundation`_.
 
 Normally however, our grants focus on the Python community - whether thats
 funding user groups, conferences, workshops, etc.
@@ -249,4 +249,8 @@ How much influence does the PSF have on projects such as PyPI ?
 .. _the Foundation's donations page: http://www.python.org/psf/donations/
 .. _Twisted Project: http://twistedmatrix.com
 .. _Steve Waterbury: http://twistedmatrix.com/pipermail/twisted-python/2002-August/001493.html
+.. _PyCon US: https://us.pycon.org/2012/
+.. _Autism Speaks: http://www.autismspeaks.org/
+.. _American Cancer Society: http://www.cancer.org/
+.. _Epilepsy Foundation: http://www.epilepsyfoundation.org/
 
