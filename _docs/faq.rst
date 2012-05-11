@@ -232,25 +232,25 @@ How much influence does the PSF have on projects such as PyPI ?
 
 
 
-.. _Python Software Foundation: http://www.python.org/psf/
-.. _Mission Statement: http://www.python.org/psf/mission/
-.. _Using Python to Create Robotic Simulations for Planetary Exploration (PyCon 2010) : http://pyvideo.org/video/274/pycon-2010--using-python-to-create-robotic-simula
-.. _Keeping the Chandra satellite cool with Python and Xija (PyCon 2012): http://pyvideo.org/video/731/29-keeping-the-chandra-satellite-cool-with-pytho
-.. _Greasing the Wheels of Exploration with Python (PyCon 2011): http://pyvideo.org/video/369/pycon-2011--greasing-the-wheels-of-exploration-wi
+.. _American Cancer Society: http://www.cancer.org/
 .. _An Underwater Python - Tortuga the Python Powered Robot (PyCon 2010): http://pyvideo.org/video/328/pycon-2010--an-underwater-python--tortuga-the-pyt
+.. _Associate Membership Page: http://psfmember.org/
+.. _Autism Speaks: http://www.autismspeaks.org/
+.. _Epilepsy Foundation: http://www.epilepsyfoundation.org/
+.. _Greasing the Wheels of Exploration with Python (PyCon 2011): http://pyvideo.org/video/369/pycon-2011--greasing-the-wheels-of-exploration-wi
+.. _Keeping the Chandra satellite cool with Python and Xija (PyCon 2012): http://pyvideo.org/video/731/29-keeping-the-chandra-satellite-cool-with-pytho
+.. _Mission Statement: http://www.python.org/psf/mission/
+.. _OSUOSL: http://osuosl.org/
 .. _PyCon - Everybody Pays: http://jessenoller.com/2011/05/25/pycon-everybody-pays/
 .. _PyCon 2012 Sponsorship — Making the case for sponsorship.: http://jessenoller.com/2011/09/23/pycon-2012-sponsorship-making-the-case-for-sponsorship/
+.. _PyCon 2012 had a 5k: https://us.pycon.org/2012/5k/
+.. _PyCon US: https://us.pycon.org/2012/
+.. _Python Software Foundation: http://www.python.org/psf/
+.. _Steve Waterbury: http://twistedmatrix.com/pipermail/twisted-python/2002-August/001493.html
+.. _Twisted Project: http://twistedmatrix.com
+.. _Using Python to Create Robotic Simulations for Planetary Exploration (PyCon 2010) : http://pyvideo.org/video/274/pycon-2010--using-python-to-create-robotic-simula
 .. _drop bears: http://en.wikipedia.org/wiki/Drop_bear
 .. _resolutions: http://www.python.org/psf/records/board/resolutions/
-.. _OSUOSL: http://osuosl.org/
-.. _PyCon 2012 had a 5k: https://us.pycon.org/2012/5k/
-.. _Associate Membership Page: http://psfmember.org/
 .. _the Foundation's membership page: http://www.python.org/psf/membership/
 .. _the Foundation's donations page: http://www.python.org/psf/donations/
-.. _Twisted Project: http://twistedmatrix.com
-.. _Steve Waterbury: http://twistedmatrix.com/pipermail/twisted-python/2002-August/001493.html
-.. _PyCon US: https://us.pycon.org/2012/
-.. _Autism Speaks: http://www.autismspeaks.org/
-.. _American Cancer Society: http://www.cancer.org/
-.. _Epilepsy Foundation: http://www.epilepsyfoundation.org/
 
